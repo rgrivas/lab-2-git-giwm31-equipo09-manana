@@ -4,7 +4,11 @@ background:white;
 }
 header {
 display:block;
+<<<<<<< HEAD
 background:#a43ddb;
+=======
+background:#FFF0F5;
+>>>>>>> refs/remotes/origin/master
 padding:10px 0px;
 }
 section {
@@ -13,7 +17,7 @@ float: left;
 overflow: auto;
 padding-bottom: 60px;
 padding-top:30px;
-color: black;
+color: white;
 }
 footer {
 position: relative;
